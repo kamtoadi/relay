@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://yatim-mandiri-9router.odnhxz.easypanel.host/$1"
+    }
+  ]
+}
